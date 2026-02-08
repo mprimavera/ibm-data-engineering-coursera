@@ -62,7 +62,7 @@ The final project integrates the skills learned throughout the course. It involv
 
 **Tools & Technologies Used:** Python, SQL, ETL scripts, Spark, IBM Cloud
 
-> You can add screenshots, architecture diagrams, or links to reports here to showcase the project visually.
+Coming soon...
 
 ---
 
