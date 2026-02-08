@@ -71,5 +71,5 @@ The final project integrates the skills learned throughout the course. It involv
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ibm-data-engineering-coursera.git
+git clone https://github.com/mprimavera/ibm-data-engineering-coursera.git
 cd ibm-data-engineering-coursera
